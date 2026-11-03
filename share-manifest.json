@@ -1,0 +1,44 @@
+{
+  "format": "drop-tower-public-share",
+  "version": 1,
+  "publishedContent": "Interactive layout tool and two display GLBs only",
+  "excludedContent": [
+    "photographs",
+    "original STEP and SolidWorks files",
+    "equipment documents",
+    "local Git history",
+    "browser drafts"
+  ],
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "assets/index-6ffT2fwq.js",
+      "bytes": 1354018,
+      "sha256": "6353dc2a58cc6e5a2c372c126293ed42ede0334f37988eb2481b88ecb25eaca8"
+    },
+    {
+      "path": "assets/index-DyWRV7hK.css",
+      "bytes": 20091,
+      "sha256": "66f5189cef70885274def4f8f8fc56ce98ee67284417b8ab5830991d52f26a83"
+    },
+    {
+      "path": "index.html",
+      "bytes": 482,
+      "sha256": "ea0c8358de7b90a7f19ebe890d50d9b5cba9ab479693799a5cd84921b98e6d60"
+    },
+    {
+      "path": "models/AXZ-1032_厂家整套.glb",
+      "bytes": 1447320,
+      "sha256": "52e99e20d309bd0769966f0194ddb10209e0d6edda680e2d1dd22069f0bee1d4"
+    },
+    {
+      "path": "models/AXZ-1032_主机夹持组件.glb",
+      "bytes": 403060,
+      "sha256": "3d495770d50d8fd151cef8f39195790744bc8206783f25946fc885a631cd0dd4"
+    }
+  ]
+}
